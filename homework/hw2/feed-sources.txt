@@ -1,0 +1,3 @@
+http://feeds.bbci.co.uk/news/rss.xml
+https://www1.cbn.com/rss-cbn-articles-cbnnews.xml
+https://news.yahoo.com/rss/
