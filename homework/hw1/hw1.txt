@@ -1,0 +1,4 @@
+Write a program to get the topics with the input keyword from RSS feeds.
+The list of RSS feeds url should be in a separate text file.
+The output should be a text file that contains the list of topics and the file's
+name should be in format keyword-DD-MM-YYYY-HH-mm-SS.txt

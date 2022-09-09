@@ -1,3 +1,2 @@
 hw -> https://github.com/alvinj/HelloScalaExamples/tree/master/PizzaOopExample
 fill in empty function
-change var to val

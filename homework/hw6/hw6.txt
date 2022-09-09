@@ -1,1 +1,1 @@
-write forkjoin f
+write FutureProject using forkjoin f
